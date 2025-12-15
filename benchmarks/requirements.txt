@@ -1,0 +1,6 @@
+pytest
+redis
+faker
+fastavro
+numpy
+psutil

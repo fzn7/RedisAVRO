@@ -1,0 +1,8 @@
+/target
+/venv
+.dump.rdb
+GEMINI.md
+*.pyc
+.pytest_cache
+.rustup
+.cargo
