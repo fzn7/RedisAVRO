@@ -1,5 +1,7 @@
 # Redis Avro Module
 
+[View source code on GitHub](https://github.com/fzn7/RedisAVRO)
+
 An open-source Redis module that stores and serves Apache Avro and JSON payloads
 at native Redis speed, enabling schema-safe ingestion, retrieval, and benchmarking
 for analytics, event streaming, and data warehousing workloads on top of Redis Stack.
